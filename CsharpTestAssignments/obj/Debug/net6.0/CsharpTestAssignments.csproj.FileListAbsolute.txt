@@ -1,0 +1,15 @@
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\bin\Debug\net6.0\CsharpTestAssignments.exe
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\bin\Debug\net6.0\CsharpTestAssignments.deps.json
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\bin\Debug\net6.0\CsharpTestAssignments.runtimeconfig.json
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\bin\Debug\net6.0\CsharpTestAssignments.dll
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\bin\Debug\net6.0\CsharpTestAssignments.pdb
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\obj\Debug\net6.0\CsharpTestAssignments.csproj.AssemblyReference.cache
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\obj\Debug\net6.0\CsharpTestAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\obj\Debug\net6.0\CsharpTestAssignments.AssemblyInfoInputs.cache
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\obj\Debug\net6.0\CsharpTestAssignments.AssemblyInfo.cs
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\obj\Debug\net6.0\CsharpTestAssignments.csproj.CoreCompileInputs.cache
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\obj\Debug\net6.0\CsharpTestAssignments.dll
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\obj\Debug\net6.0\refint\CsharpTestAssignments.dll
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\obj\Debug\net6.0\CsharpTestAssignments.pdb
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\obj\Debug\net6.0\CsharpTestAssignments.genruntimeconfig.cache
+C:\Users\blewi\source\repos\CsharpTestAssignments\CsharpTestAssignments\obj\Debug\net6.0\ref\CsharpTestAssignments.dll
