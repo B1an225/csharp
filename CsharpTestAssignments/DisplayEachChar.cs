@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,7 +19,7 @@ namespace CsharpTestAssignments
             {
                 Console.WriteLine(c);
             }
-           *//* or *//*
+            or
             for (int i = 0; i < name.Length; i++)
             {
                 Console.WriteLine(name[i]);
@@ -27,4 +27,3 @@ namespace CsharpTestAssignments
         }
     }
 }
-*/
